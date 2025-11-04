@@ -2,6 +2,9 @@
 
 A relational database and web application to help homesteaders and permaculture practitioners select appropriate plants and animals for their specific climate and land conditions.
 
+<img width="1079" height="603" alt="What_is_a_FoodForest_Geoff_Lawton" src="https://github.com/user-attachments/assets/1132cd90-d677-415a-8685-13b110971b74" />
+
+
 ## Problem Statement
 Permaculture planning requires understanding complex relationships between plants, animals, climate zones, and ecological guilds. This system provides intelligent recommendations based on location-specific conditions.
 
